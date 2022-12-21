@@ -9,7 +9,7 @@
   ## Description
   An application backend and mysql database for an online store. Built with dotenv, Sequelize, MySQL2, and Express.
 
-  To view please visit [link](https://youtu.be/zRMhL1IMSFY) 
+  To view video demonstration please visit [link](https://youtu.be/zRMhL1IMSFY) 
   ## Installation
     npm init
 
